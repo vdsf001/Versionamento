@@ -1,2 +1,4 @@
 RA: 918102210
-Nome: Vinicius S�
+Nome: Vinicius Sá
+Email: astralopitecus@gmail.com
+Mês de nascimento: Janeiro
