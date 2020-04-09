@@ -1,0 +1,6 @@
+Código de disciplina: 001A
+Nome da Disciplina: Matemática.
+
+Código de disciplina: 002A
+Nome da Disciplina: Português.
+
