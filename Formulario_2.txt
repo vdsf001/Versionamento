@@ -1,9 +1,6 @@
-CÃ³digo de disciplina: 001A
-Nome da Disciplina: MatemÃ¡tica.
+Código de disciplina: 001A
+Nome da Disciplina: Matemática.
 
-CÃ³digo de disciplina: 002A
-Nome da Disciplina: PortuguÃªs.
-
-CÃ³digo de disciplina: 003A
-Nome da Disciplina: CiÃªncia.
+Código de disciplina: 002A
+Nome da Disciplina: Português.
 
